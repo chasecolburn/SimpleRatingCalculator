@@ -1,4 +1,4 @@
-package mindtwisted.com.ratingcounter;
+package com.mindtwisted.ratingcounter;
 
 import android.content.Context;
 import android.content.SharedPreferences;
